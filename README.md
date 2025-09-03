@@ -1,19 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sai Harshik Reddy</h1>
-<h3 align="left">My journey began with a B.Tech in Computer Science at Gitam University, where I built my first projects—YouTube and Amazon front-end clones using HTML, CSS, and JavaScript. This foundation sparked my passion for creating user-centric digital experiences. Pursuing advanced studies at the University of Leicester, I earned my MSc in Advanced Computer Science, culminating in a comprehensive Job Recommendation System that combined NLP, machine learning, and full-stack development—showcasing my ability to integrate multiple technologies into cohesive solutions. At Hammonds, I transitioned from intern to Data Analyst, where I discovered the power of data to drive business decisions. I automated reporting processes, built interactive dashboards, and partnered with stakeholders to identify growth opportunities—reducing reporting delays by 30% and contributing to significant cost savings. Currently, I'm expanding my expertise in machine learning and AI through Harvard's CS50 series, developing practical projects like Restaurant AI Management Systems and Stock Price Prediction models that demonstrate real-world application of advanced technologies.</h3>
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Sai Harshik Reddy]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=githubusername&label=Profile%20views&color=0e75b6&style=flat" alt="githubusername" /> </p>
+![Banner](https://img.shields.io/badge/Welcome%20to%20My%20GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000)  
 
-- 🔭 I’m currently working on **AI Restarunt Managment System**
+🎓 I began my journey with a **B.Tech in Computer Science** at Gitam University, where I built YouTube & Amazon front-end clones.  
+📚 Later, I pursued an **MSc in Advanced Computer Science** at the University of Leicester, completing a **Job Recommendation System** full-stack development.  
+💼 At **Hammonds**, I grew from Intern → Data Analyst, automating reports & dashboards, reducing reporting delays by **30%**.  
+🔬 Currently, I’m exploring **AI & ML** with projects like an **AI Restaurant Management System**—helping restaurants focus more on customers than workflows.  
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+---
 
-- 💬 Ask me about **Data, Full Stack Development**
+## 🛠️ Tech Stack  
 
-- 📫 How to reach me **saikatigari@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Frontend**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Backend**  
+![NodeJS](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)  
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
+
+**AI/ML & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat-square&logo=python&logoColor=white)  
+
+</div>  
+
+---
+
+## 📂 Featured Projects  
+
+- 🎬 **YouTube Clone** (HTML, CSS) – *2019*  
+- 🛒 **Amazon Clone** (HTML, CSS, JS) – *2020 (B.Tech Final Year Project)*  
+- 🧑‍💻 **Job Recommendation System** (*MSc Project*)  
+  - Frontend: Next.js + TypeScript + TailwindCSS  
+  - Backend: FastAPI (Python), PostgreSQL, Redis  
+  - Search: ElasticSearch  
+- 📊 **Sales Data Analysis** – Python, Pandas, Seaborn, PowerBI  
+- 📊 **YouTube Data Analysis** – Python, Pandas, Seaborn, PowerBI  
+- 📈 **HR Analytics Dashboard** (*Hammonds*) – Python, PowerBI  
+- 📈 **Stock Market Data Analysis** – Python, Pandas, ML models  
+- 🍴 **AI Restaurant Management System** (*Ongoing – transforming restaurant workflows with AI*)  
+
+---
+
+## 🚀 Beyond Tech  
+- 🏸 I’m passionate about **sports**, especially playing & watching **badminton**.  
+- 🎯 Fun Fact: *“I believe coding is like badminton—strategy, precision, and consistency wins the game!”*  
+
+---
+
+## 🌍 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YourLinkedInLink)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](YourPortfolioLink)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YourEmail@gmail.com)  
+
+---
+
+✨ *Thanks for visiting my profile! Explore my repos and let’s connect—I’m always open to collaborations and new ideas.*  
