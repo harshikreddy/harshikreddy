@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sai Harshik Reddy  
 
-💻 **Python Developer | Data Analyst | Data Engineer Learner | Full Stack Developer | AI/ML Learner**  
+💻 **Python Developer | Data Analyst | Software Engineer | Full Stack Developer | AI/ML Learner**  
 
 ---
 
